@@ -1,0 +1,304 @@
+id,name,nationality,gender,age,english,math,sciences
+0,Kiana Lor,China,F,22,3.5,3.7,3.1
+1,Joshua Lonaker,United States of America,M,22,2.9,3.2,3.6
+2,Dakota Blanco,United States of America,F,22,3.9,3.8,3.2
+3,Natasha Yarusso,United States of America,F,20,3.3,2.8,3.2
+4,Brooke Cazares,Brazil,F,21,3.7,2.6,3.4
+5,Rochelle Johnson,United States of America,F,21,3.4,3.1,3.7
+6,Joey Abreu,China,M,22,3.7,3.9,3.6
+7,Preston Suarez,Brazil,M,22,3.8,3.7,3.6
+8,Lee Dong,Philippines,F,24,3.9,3.6,3.2
+9,Maa'iz al-Dia,Turkey,M,22,2.4,2.8,3.8
+10,Maja Nicholson,United States of America,F,23,3.4,3.5,3.2
+11,Sasha Jansen,United States of America,F,21,1.7,4,3.6
+12,Alexander Sherman,United States of America,M,20,3.8,3.6,3.9
+13,Edgar Sanchez,Mexico,M,23,3.7,3.5,4
+14,Kolbi Strunk,United States of America,M,21,3.2,3.9,3.3
+15,Brittany Sath,Japan,F,21,4,3.9,3.7
+16,Meggan Smith,United States of America,F,21,2.9,3.4,3.6
+18,David Pulc,Canada,M,24,3.9,2.9,4
+19,Kyle Luckey,United States of America,M,23,3.7,3.9,3.4
+20,Rojesh Her,Japan,M,22,3.8,3.6,3.6
+21,David Weber,China,M,20,3.9,3.9,3.9
+22,Rachel Jambor,United States of America,F,22,3.6,3.6,3.9
+23,Mus'ab al-Moustafa,Pakistan,M,23,3.8,3.9,3.8
+24,Sila Nguyen,China,M,23,2.8,3.5,3.5
+25,Samantha Hicks,United States of America,F,22,3.7,3.7,3.8
+26,Angela Harding,United States of America,F,22,3.1,2.9,3.2
+27,Brandon Barbour,United States of America,M,21,3.9,3.7,3.3
+28,Reilly Wagar,United States of America,F,23,3.4,3.2,3.7
+29,Victoria Ibarra,Dominican Republic,F,22,3.4,3.8,4
+30,Dakota Wirth,United States of America,F,22,3.4,3.9,3.6
+31,Lauren Klocker,United States of America,F,22,2.3,3.9,3.8
+32,Michael Benson,United States of America,M,21,3.8,3.7,3.7
+33,Sean Rozga,United States of America,M,21,3.4,3.8,3.6
+34,Cody Vermeylen,United States of America,M,23,3.3,3.8,3.5
+35,Kinaana al-Jamail,India,F,22,3.3,3.8,3.7
+36,Daniel Garcia,Peru,M,22,3.7,3.1,3
+37,Katrina Saito,Japan,F,22,3.8,4,3.7
+38,Joshua Galloway,United States of America,M,24,3.3,3.3,3.6
+39,Aylin Mendoza,Mexico,F,22,3,2.3,3.9
+40,Sharon Fyfe,United States of America,F,22,3.7,3,3.8
+41,Afnaan el-Mohammed,India,F,22,1.7,3.5,3.9
+42,Jesse Williams,Russian Federation,F,21,3.9,3.4,2.6
+43,Kenny Fukushima,Japan,M,22,3.9,2.9,3.3
+44,Tawnie Glaisher,United States of America,F,24,3.4,3.2,3.8
+45,Britany Stevens,United States of America,F,23,3.6,3.3,3.5
+46,Alan Trinh,Japan,M,20,2.8,3.1,3.8
+47,Zoe Kern,United States of America,F,22,2.1,4,3.4
+48,Sidney Beavers,United States of America,M,23,2.3,2.8,3.5
+49,Miriam Aguilar,Mexico,F,22,3.6,3.8,2.8
+50,Issac Mata,Mexico,M,23,2.4,3.1,2.7
+51,Hannah Uren,United States of America,F,22,3.2,2.2,3.5
+52,Zachary Bradley,Spain,M,21,3.5,3.5,3.4
+53,Moira Buttitto,United States of America,F,23,1.9,2.8,3.2
+54,Nicole Humpal,United States of America,F,22,3.9,3.7,4
+55,Georgia Williams,United States of America,F,23,2.9,3.6,3.1
+56,Connor Ferry,United States of America,M,23,3.1,3.8,4
+57,Amanda Tatum,United States of America,F,22,3.5,2.3,3.7
+58,Cameron Steinberg,United States of America,M,20,2.1,3.9,3.9
+59,Shuraih el-Karim,Pakistan,M,22,3.1,2.1,2.3
+60,Katelyn Sharp,United States of America,F,20,3.9,3.7,2.8
+61,Colin Lemont,China,M,21,3.6,4,3.1
+62,Donald Nevins,United States of America,M,23,3.6,3.4,2.8
+63,Macaela Kadillak,United States of America,F,20,2.7,3.3,3.3
+64,Brittany Pratt,United States of America,F,22,3,3.1,3.1
+65,Cameron Hancock,Poland,M,21,3.9,3.8,3
+66,William Grevious,United States of America,M,22,3.4,3.4,3.1
+67,Lindsey Job,United States of America,F,23,2.7,3.7,1.8
+68,Gabrielle Smith,Korea (Republic of),F,23,4,3,2.8
+69,Allison Brink-Lomme,United States of America,F,24,2.8,3.6,4
+70,Sheyenne Delgado-Manzanares,Cuba,F,21,3.9,2.8,3.2
+71,Joseph Smith,United States of America,M,21,3.7,3.7,2.8
+72,Fikra al-Mina,India,F,21,3.1,2.4,3.3
+73,Aurelia Davis Ingham,United States of America,F,22,3.8,2.2,3.7
+74,Taylor Elstun,United States of America,F,21,2.3,3.7,3.6
+75,Joseph Snider,United States of America,M,21,3.2,2.6,3
+76,Sourinthone Tran,China,M,21,3.5,3.9,3.4
+77,Ibrahim al-Sawaya,Tunisia,M,23,3.5,3.1,4
+78,Alexandra Levy,United States of America,F,23,3.1,2.5,3.7
+79,Macie Nguyen,Japan,F,23,3.1,3.8,3.8
+80,Sean Tegtman,United States of America,M,25,3.7,3.8,3.8
+81,Casey Vanden Bos,United States of America,M,22,2.7,2.6,3.3
+82,Staci Maes,Mexico,F,23,3.4,2.6,3.9
+83,Luke Davey,United States of America,M,26,3.8,3.4,3.7
+84,Harper Wheeler-Marques,United States of America,F,23,3.9,2.4,3.9
+85,Sherleen Saravanan,Myanmar,F,22,3.1,3.4,3.7
+86,Myles Vaught,United States of America,M,21,3.4,3.8,3.9
+87,Juan Guerrero Camacho,Mexico,M,21,2.8,3.7,3.5
+88,Lindsey Freund,United States of America,F,20,3.3,2.3,3.9
+89,Savannah Clark,United States of America,F,20,2.8,3.5,2.6
+90,Bradley Monsell,United States of America,M,22,3,3.9,3.1
+91,Daisha Schmidt,United States of America,F,22,3.7,3.9,4
+92,Airabella Koontz,United States of America,F,22,2.7,3.3,3.4
+93,Hailey Malle,Russian Federation,F,22,3.7,2.5,3.2
+94,Devon Miranda,Colombia,M,20,3.7,3.7,3.8
+95,Danielle Nguyen,Japan,F,23,3.3,3.5,3.6
+96,Mateo Cisneros,Brazil,M,23,3,3.4,2.9
+97,William Pablo,Japan,M,24,2.9,3.3,3.1
+98,Jason Hundsdorfer,United States of America,M,20,3.9,3.9,4
+99,Antonio Desai,Japan,M,22,2.2,3.9,3.9
+100,Rachel Bakeman,United States of America,F,24,3.9,3.7,3.8
+101,Mamdooh el-Moustafa,Pakistan,M,22,3.3,2.8,3.9
+102,Lindsey Carter,United States of America,F,24,3.2,3.9,3.9
+103,Duncan Kruse,United States of America,M,23,3.7,3.8,3.7
+105,Jamie Ortiz,El Salvador,F,23,3.3,2.9,3.5
+106,Ryan Barrett,United States of America,M,20,3.7,3.2,4
+107,Samuel Palmer,United States of America,M,22,3.9,3.3,3.3
+108,Riley Mcloughlin,United States of America,M,23,3.6,3.6,3.3
+109,Aimee Apelyan,United States of America,F,24,3.3,3.8,3.8
+110,Maryah Falloon,United States of America,F,23,3.9,3.7,3.9
+111,Lucille Mitchell,Canada,F,22,3.5,3.6,2.6
+112,Christian Zambrano-Munoz,Mexico,M,23,3.1,3.9,3.6
+113,Bryce Vaillancourt,United States of America,M,22,3.7,3.8,2.1
+114,Brandilyn Collins,United States of America,F,21,3.6,3,3.3
+115,Konner Gearhart,United States of America,M,22,3.9,3.7,3.3
+116,Andrew Houghton,United States of America,M,22,3.2,3.2,3.8
+117,Marisa Ramey,Mexico,F,22,3.2,4,3.8
+118,Magdalynne Noah,United States of America,F,22,3.2,3.8,3.8
+119,Megan Salamena,United States of America,F,23,3.9,3.9,3.1
+120,Meghan Arnold,Russian Federation,F,24,4,3.9,3.3
+121,James Rice,Canada,M,20,3.9,2.4,3.6
+122,Wesley Nunn,United States of America,M,23,3.9,4,2.1
+123,Gareth Newkirk,United States of America,M,21,4,3.2,3.9
+124,Austin Harline,United States of America,M,21,2.8,3.8,3.8
+125,Courtney Martinez,Mexico,F,20,3.7,3.7,3.7
+126,Alexandra Graham,United States of America,F,22,3.4,3.5,2.8
+127,Alexander Swearingen,United States of America,M,22,3.9,2.8,4
+128,Brandy Waldner,Germany,F,20,3.2,3.5,3.9
+129,Coleman Keelen,Spain,M,24,3.4,4,3.4
+130,Casey Buhr,United States of America,M,21,3.7,3.2,2.5
+131,Shauna Sneed,United States of America,F,19,2.7,3.7,3.7
+132,Caitlin Dean,United States of America,F,22,3.9,3.7,3.1
+133,Andrew Kirin,United States of America,M,25,3.8,2.2,3
+134,Nadia Minks,Russian Federation,F,24,3.8,3.1,3.5
+135,Ivy Lucero,Brazil,F,24,3.9,3.6,3.2
+136,Kevin Curry,United States of America,M,23,3.9,3,3.7
+137,Charles Cramer,United States of America,M,23,3.1,3.5,3.8
+138,Emily Warner,United States of America,F,21,3.5,3.2,3.9
+139,Mckenzie Haycock,Canada,F,20,3.8,2.3,3.7
+140,Faviola Soto,Mexico,F,19,4,3.8,3.9
+141,Stephen Wharton,Mexico,M,21,2.1,3.7,3.8
+142,Alexandria Fortner,United States of America,F,20,3.9,3.8,3.8
+143,Savannah Kivett,United States of America,F,21,3.8,3.9,3.8
+144,Tanner Jones,United States of America,M,23,3.9,3.7,3.7
+145,Luisa Bautista,Mexico,F,21,3.3,3,3.4
+146,Juhaina al-Bilal,Bangladesh,F,20,3.9,3.9,3.9
+147,Siena Ingram,United States of America,F,21,3.8,3.7,3.8
+148,Alondra Gardea Corral,Mexico,F,20,2.2,3.8,3.1
+149,Vincent Webster,United States of America,M,23,2,3.7,3.4
+150,Abdul Jabbaar el-Abdul,Egypt,M,20,1.5,3.5,3.2
+151,Patrick Carnes,United States of America,M,22,2.4,3.5,3.6
+152,Shawn O Bryan,United States of America,M,23,2.9,3.7,1.5
+153,Jenna Whitney,United States of America,F,23,3.7,2.9,3.9
+154,Kaitlin Krueger,United States of America,F,24,3.7,3.9,4
+155,Jaime Mikesell,United States of America,F,20,3.9,3.7,3.7
+156,Katelynn Andrie,United States of America,F,23,3,3.9,3.9
+157,Maryn Manzanares,United States of America,F,21,3.9,3.2,3.2
+158,Colleen Kohout,United States of America,F,22,3.5,3.8,3.1
+159,Daniel Spurlin,United States of America,M,24,3.9,3.9,3.7
+160,Trevor Bulba,United States of America,M,21,3.9,3.8,3.8
+161,Jordan Burkhamer,United States of America,F,23,3,3.9,3.7
+162,Rebecca Ah Fat,China,F,22,1.8,3.8,4
+163,Christopher Jacobo,United States of America,M,21,3.4,2.7,3.9
+164,Min Singal,Japan,F,24,3.8,2.9,2.9
+165,Corey Rademacher,Ukraine,M,22,3.1,3.3,3.9
+166,Alexander Reed,United States of America,M,22,3,2.7,3.8
+167,Dalen Whiting,United States of America,F,23,2.8,3.9,3.3
+168,Chelsea Persky,United States of America,F,23,3.9,3.4,4
+169,Karla Taylor,Mexico,F,21,3.7,3,3.7
+170,Kaden Yates,United States of America,M,23,3.6,3.4,4
+171,Maimoona el-Soliman,Turkey,F,21,2.8,2.6,3.9
+172,Aaqil el-Hashemi,India,M,21,3.4,3,3.6
+173,Sean Bruso,United Kingdom,M,19,3.2,3.7,3.9
+174,Andrew Bishop,United States of America,M,22,4,3.7,3.8
+175,Zahraaa el-Yousef,India,F,22,3.9,3.7,3.8
+176,Surya Ky,China,M,21,3.7,4,3.8
+177,George Mann,Russian Federation,M,23,3.9,3.9,4
+178,Latino Calderon,Mexico,M,23,3.6,3,3
+179,Baylen Cloutier,United States of America,M,22,3.9,3.4,3.7
+180,Nicole Torres-Valadez,Brazil,F,24,3.9,3.1,3
+181,Addie Villavicencio,United States of America,F,20,4,3.5,3.2
+182,Billy Jack Bestle,United States of America,M,22,3.7,4,3.8
+183,Isabella Martinez,Colombia,F,23,2.6,4,2.7
+184,Kimberly Thielke,United States of America,F,21,3.8,3.9,3.3
+185,Adrian Miguel-Gomez,Colombia,M,22,3.7,3.3,2.2
+186,Kayla Sales,United States of America,F,22,2.1,3.1,4
+187,Haafiza al-Attar,Morocco,F,21,2.4,3.6,3.8
+188,Juanita Medina,Mexico,F,22,3.8,3.9,3.7
+189,Emma Kim,China,F,22,2.8,3.9,3.8
+190,Mckayla Dopler,Netherlands,F,21,2.5,3.5,3.7
+191,Jonathan Nevarez,Mexico,M,23,2.7,2.6,3.6
+192,Roger Redfern,United States of America,M,21,3.9,3.9,3.1
+193,Hannah Critchfield,United States of America,F,21,3.5,3.3,3.6
+194,Chue Fue Richter,China,M,23,3,3.6,1.4
+195,Joshua Mesan,United States of America,M,24,4,3.8,3.7
+196,Dylan Bell,United States of America,M,20,3.3,3.8,3.5
+197,Troy White,United States of America,M,22,4,3.6,3.4
+198,Sabaaha al-Latif,India,F,22,3.7,2.7,3
+199,Grant Walden,United States of America,M,22,3.8,3.3,3.3
+200,Kitty Nguyen,Japan,F,25,3.4,3.2,2.9
+201,Tyler Kibel,United States of America,M,24,4,3.2,3.8
+202,Kyler Overboe,United States of America,M,21,3.2,4,3.5
+203,Alexander Lizama,Brazil,M,21,3.9,3.7,3.9
+204,Aaron Knott,United States of America,M,23,3.2,3.6,3.7
+205,Jessica Greenberg,United States of America,F,23,3.6,3.7,2.8
+206,Lexi Hatton,United States of America,F,23,3.3,2.7,4
+207,Jesse Hodapp,United States of America,M,21,3.8,3,3.5
+208,Andrew Brunelli,United States of America,M,23,3.4,3.8,4
+209,Makenzie Swann,United States of America,F,22,3.4,2.8,3.1
+210,Carlos Anaya,Mexico,M,24,3.7,3.7,3.7
+211,Felipe Martinez Acosta,Chile,M,21,3.7,3.7,4
+212,Emma Casias,United States of America,F,22,3.2,3.7,3.2
+213,Adolf Malik,Korea (Republic of),M,21,3.1,3.5,3.6
+214,Christian Chow,China,M,21,2.6,3.9,3.4
+215,Asad el-Yacoub,India,M,22,2.6,3.3,4
+216,Holly Marshall,United States of America,F,22,3,2.7,2
+217,Brandilyn Hanselman,Russian Federation,F,21,2,3.5,2.2
+218,Nicole Patria,China,F,24,3.9,3.3,3
+219,Kyler Grieshaber,United States of America,M,22,3.6,3.4,4
+220,Jasper Stang,United States of America,M,24,3.6,3.9,3.3
+221,Anthony Visocsky,United States of America,M,21,3.4,2.4,4
+222,Jake Seime,United States of America,M,22,2.4,3.9,3.7
+224,Anthony Mcdevitt,United States of America,M,24,3.1,4,3.9
+225,Darby Focken,United States of America,F,21,3.5,2.5,3.7
+226,Abigail Gallegos,Brazil,F,24,3.4,3,2.1
+227,Patricia Rockhold,United States of America,F,21,4,3.5,3.4
+228,Kylie Schafer,United States of America,F,22,3.1,3,3.3
+229,Katherine Beatty,United States of America,F,19,4,2.4,3.9
+230,Melissa Bickel,United Kingdom,F,22,3.6,2.6,2.5
+231,Rachel Boh,United States of America,F,22,3.8,3.9,2.9
+232,Anna Yoshimura,China,F,20,3.5,3.8,3.9
+233,Joseph Hazelton,United States of America,M,22,3.5,4,3.9
+234,Tiffany Nguyen,Thailand,F,22,3.3,3.9,3.9
+235,Ryan Tyler,United States of America,M,20,3.7,3.5,3.5
+236,Max Flores,Mexico,M,23,3.9,2.8,2.5
+237,Veronica Tounzen,Mexico,F,21,3.8,3.5,3.5
+238,Haley Ingrim-Hyrup,United States of America,F,22,3.2,3.6,2.6
+239,Kayla Sandefur,United States of America,F,23,3.5,3.1,3.5
+241,Kelli De Bartolome,United States of America,F,23,3.4,3.4,3.5
+242,Thomas Chanlynn,United States of America,M,22,2.4,3,3.8
+243,Andrew Yelich,United States of America,M,24,2,3.9,3.3
+244,Dimitri Castillo,Colombia,M,21,3.9,3,3.8
+245,Matthew Strasburger,United States of America,M,21,3.9,3.9,2.9
+246,Vittoria Faulkner,United States of America,F,22,4,3.6,2.5
+247,Tyler Goetz,United States of America,M,22,3.7,3.5,2.8
+248,Tyler Weller,United States of America,M,22,3.7,3.2,3.1
+249,Terri Mergelman,United States of America,F,23,2.7,3.9,3
+250,Abigail Orgeron,United States of America,F,23,3.2,3,3.8
+251,Jessica Huynh,Korea (Republic of),F,22,3.5,2.7,3.2
+252,Kyle Blanscet,United States of America,M,23,3.8,3.5,3.7
+253,Ronald Toth,United States of America,M,23,2.7,3.5,3.7
+254,Branden Cantrell,United States of America,M,23,2.7,4,3.9
+255,Hannah Ratterman,United States of America,F,23,3.5,3.4,3.7
+256,Alexandria Winter,United States of America,F,24,3.8,3.8,2.2
+257,Ryan Russell,United States of America,M,22,3,3.4,3.7
+258,Logan Nighswonger,United States of America,M,21,2.7,4,3.9
+259,Zaghlool al-Pasha,India,M,21,2.3,3.8,3.8
+260,Madeline Kremke,United States of America,F,22,3.2,3.6,2.6
+261,John Ferry,United States of America,M,21,3.8,2.4,3.8
+262,Michelle Goldanloo,United States of America,F,22,3.3,2.8,3.9
+263,Ryan Heidebrecht,United States of America,M,22,3.9,3.7,3.8
+264,Murtidevi Chung,Japan,F,21,2.9,3.9,3.5
+265,Arely Rodriguez,Mexico,F,21,3.9,3.5,3.6
+266,Taylor Stone,United States of America,F,22,3,3,3.5
+267,Melody Bowyer,United States of America,F,21,3.2,3.5,3.3
+268,Bryant Ronquillo,Mexico,M,20,4,3.2,3.5
+269,Garrett Heim,United States of America,M,20,4,3.2,3.1
+270,Cody Amen,United States of America,M,23,3.6,3.9,3.7
+271,Jasmine Lopez,Brazil,F,21,3.8,3.8,1.5
+272,William Tierney,United States of America,M,21,3.8,2.1,3
+273,Matthew Sputh,United States of America,M,22,3.2,2.6,4
+274,Brenna Chapman,United States of America,F,21,3.5,3.8,3.3
+275,Blake Loughran,United States of America,M,21,4,3,3.4
+276,Michael Melendrez,United States of America,M,22,3.4,3.8,3.2
+277,Katie Abercrombie,United States of America,F,21,3.8,3.8,3.6
+278,Justin Krause,United States of America,M,21,3.9,2.6,2.8
+279,Jennifer Hauge,United States of America,F,23,2.6,3,2.3
+280,Tiffanie Her,Japan,F,22,3.4,4,3.6
+281,Dyllan Paige,United States of America,M,20,2.9,3.1,2.6
+282,Cole Hathcoat,United States of America,M,23,2.4,3.6,2.8
+283,Jesse Carballo,Colombia,M,20,3.8,3.9,3.9
+284,Robert Podolski,United States of America,M,22,3.7,3.3,2.4
+285,Viridiana Ballesteros,Brazil,F,22,2.8,3.5,3.9
+286,Michael Griffin,United States of America,M,21,4,4,4
+287,Chad Klemp,United States of America,M,22,3.9,2.6,4
+288,Weldon Hightower,United States of America,M,20,2.6,2.1,3.2
+289,Daniel Pierce,United States of America,M,24,3.3,2.8,3.9
+290,Michaela Schoenbeck,United States of America,F,22,3.9,4,3.3
+291,Charles Prose,United States of America,M,24,3.7,3.2,2.8
+292,Brittany Kemmerzell,United States of America,F,23,3.2,3.4,3.7
+293,Taryn Springfield,Canada,F,20,3.5,3.7,3.4
+294,Matthew Obourn,United States of America,M,23,3.9,4,3.9
+295,Travis Poss,United States of America,M,23,2.3,3,3.5
+296,Brittany Fernandez,Mexico,F,23,3.9,3.7,2.9
+297,Cody Smith,United States of America,M,23,3.8,3.5,3.9
+298,Nicolas Papp,United States of America,M,23,2.7,3.7,3.9
+299,Christopher Inhulsen,United States of America,M,23,3.1,3.3,2.9
+300,Tessa Rawanduzy,United States of America,F,21,3.3,3.3,2
+301,Vanessa Gonzalez,Nicaragua,F,24,3.3,3.7,3.8
+302,Austin Haas,United States of America,M,20,3.6,3.7,3.1
+303,Madison Fithian,United States of America,F,20,3.6,3.9,4
+304,Zachary Mulvahill,United States of America,M,20,3.2,3.4,3.9
+305,Eliana Michelsen,United States of America,F,23,3,2.8,2.9
+306,Dane Whittemore,Canada,M,21,3.8,3.2,4
